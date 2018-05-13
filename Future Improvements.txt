@@ -1,0 +1,9 @@
+Future Improvements
+
+- Add tests (Jasmine/PhantomJS)
+- Improve UI (centered, better background, icons, fix table widths)
+- Add fav-icon
+- Add additional information dropdown for each city with remaining relevant weather information (this version only has what I consider the essentials of what people really check the weather for)
+- Add browser check for local storage (right now it assumes you are running on a modern browser)
+- move API key to local-config
+- Better country handling
