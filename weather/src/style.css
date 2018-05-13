@@ -1,0 +1,13 @@
+.hidden {
+	display: none;
+}
+
+.error {
+    color: #D8000C;
+    background-color: #FFD2D2;
+    width:375px;
+}
+
+.city-table {
+	width: 100%;
+}
